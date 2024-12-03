@@ -1,5 +1,4 @@
 function Home() {
-   return <h1>"Sabe por que o elefante não usa computador? 
-      Porque ele tem medo de mouse"</h1>
+   return <h1>"Raquel tudo aquilo que eu pretendo ser, devo a um anjo, minha mãe ❤ "</h1>
 }
 export default Home;
