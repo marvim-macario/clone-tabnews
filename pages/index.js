@@ -1,7 +1,4 @@
-import { useEffect } from "react";
-import styles from "./index.module.css";
-
 function Home() {
-  return <h1>Hello world</h1>;
+  return <h1>Em construção</h1>;
 }
 export default Home;
